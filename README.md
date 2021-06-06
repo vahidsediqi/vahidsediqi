@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @vahidsediqi
+- 👀 I’m interested in coding, learning new things and and blogging 
+- 🌱 I’m currently learning wordpress theme and plugin development 
+- 📫 How to reach me:
+- Email me at email@vahidsediqi.com
+
+<!---
+vahidsediqi/vahidsediqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
