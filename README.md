@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vahidsediqi
 - 👀 I’m interested in coding, learning new things and and blogging 
-- 🌱 I’m currently learning wordpress theme and plugin development 
+- 🌱 I’m currently MERN (Mogodb, Express, React, Node)
 - 📫 How to reach me:
 - Email me at email@vahidsediqi.com
 
