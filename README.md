@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 - Email me at contact@vahidsediqi.com
 - [My Free Online Tool Website](https://ninja-webtools.com/)
+- [Checkout My Blog](https://vahidsediqi.com/blog/)
 
 <!---
 vahidsediqi/vahidsediqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
